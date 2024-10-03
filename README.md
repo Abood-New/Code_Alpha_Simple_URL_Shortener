@@ -1,4 +1,4 @@
-# Event Registration System API
+# Simple URL Shortener API
 
 ## Overview
 
